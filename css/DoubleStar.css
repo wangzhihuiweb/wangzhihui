@@ -1,0 +1,40 @@
+.DoubleStar{ overflow: hidden; color:#333333; margin: auto;}
+.DoubleStar .User{ clear: both; overflow: hidden;}
+.DoubleStar .User .Head{ float:left; overflow: hidden; border-radius: 100%;}
+.DoubleStar .User .Head img{ width:100%; height: 100%;}
+.DoubleStar .User .Info{ float: left;}
+.DoubleStar .User .Info h3{ clear: both; color: #333333;}
+.DoubleStar .User .Info P{ clear: both; color: #939393;}
+.DoubleStar .Text{ clear: both; overflow: hidden; color: #333333;}
+.DoubleStar .Show{ overflow: hidden;}
+.DoubleStar .Show .Img{ overflow: hidden; clear: both;}
+.DoubleStar .Show .Img img{ width: 100%; height: 100%;}
+
+.DoubleStar .Show .Thevideo{ overflow: hidden; clear: both; background:#000000; position: relative;}
+
+/*.DoubleStar .Show .Thevideo .play{ z-index: 1; display: block; position: absolute; top: 50%; left: 50%;background: url(../images/play.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}*/
+
+
+
+
+
+
+.DoubleStar .Review{ overflow: hidden;}
+.DoubleStar .Review h3{ color:#333333; font-weight: bold;}
+
+.DoubleStar .Review .list{ overflow: hidden; clear: both;}
+.DoubleStar .Review .list .Img{ float: left;}
+.DoubleStar .Review .list .Img img{width: 100%; height: 100%; border-radius: 100%;}
+.DoubleStar .Review .list .Con{ float: left; border-bottom: 1px solid #eaeaea; }
+.DoubleStar .Review .list .Img img{width: 100%; height: 100%; border-radius: 100%;}
+.DoubleStar .Review .list .Con h2{ clear: both;}
+.DoubleStar .Review .list .Con h2 b{ float: left; color: #585858;}
+.DoubleStar .Review .list .Con h2 span{ float: right; color: #939393;}
+.DoubleStar .Review .list .Con p{ clear: both; color: #43413f;}
+
+.DoubleStar .Qrcode{ margin: auto;}
+.DoubleStar .Qrcode span{ color: #000000; display: block; text-align: center;}
